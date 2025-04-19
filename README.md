@@ -1,7 +1,8 @@
 # 📦 Tenkai (展開)
 
 A project hosts all of my personal CDN files.
-Not to be confused with [Sumika-san](https://github.com/komatsuben/sumika-san)
+
+It's like Toji Fushiguro's "Inventory Curse" from JJK. 
 
 ## 🗾 Definition
 Tenkai (展開) means "Deployment" or "Expansion" which accurately describes what this project is all about
